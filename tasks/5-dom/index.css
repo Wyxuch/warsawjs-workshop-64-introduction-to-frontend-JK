@@ -1,0 +1,26 @@
+.parent {
+    background-color: lightgray;
+    height: 100vh;
+    width: 100vh;
+}
+
+.child {
+    height: 40px;
+    width: 40px;
+}
+
+.czerwony {
+    background-color: red;
+}
+
+.zielony {
+    background-color: green;
+}
+
+.niebieski {
+    background-color: blue;
+}
+
+.zolty {
+    background-color: yellow;
+}
