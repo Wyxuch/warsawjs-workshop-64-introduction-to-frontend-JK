@@ -10,6 +10,7 @@
 5. Napisz funkcję która będzie pobierać wartości z inputów i przeliczać walutę
 6. Wynik z funkcji powinien być umieszczany w paragrafie za pomocą `element.innerText`
 7. Dodaj funkcję na `click` do przycisku
+8. Można zająć się stylowaniem, efekt końcowy powinien wyglądać jak w pliku `FinishedProject.png`
 
 Bonus: jeżeli starczy czasu będziemy pobierać JSON'a z https://github.com/fawazahmed0/currency-api
 i na podstawie tego przeliczać waluty
